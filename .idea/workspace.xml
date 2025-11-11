@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/French Stock Data Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FF_case_study_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Stats.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Stats.ipynb" afterDir="false" />
+    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="Running commits, going forward in both projects.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +237,21 @@
       <workItem from="1759766170985" duration="544000" />
       <workItem from="1759777953140" duration="15493000" />
       <workItem from="1759953774862" duration="11658000" />
-      <workItem from="1761591804510" duration="3629000" />
+      <workItem from="1761591804510" duration="7092000" />
+      <workItem from="1761601519144" duration="1681000" />
+      <workItem from="1761733251293" duration="6150000" />
+      <workItem from="1761812303124" duration="3728000" />
+      <workItem from="1761842471403" duration="1238000" />
+      <workItem from="1761899685061" duration="469000" />
+      <workItem from="1761922032883" duration="584000" />
+      <workItem from="1761931564906" duration="10475000" />
+      <workItem from="1762079058600" duration="357000" />
+      <workItem from="1762114044932" duration="435000" />
+      <workItem from="1762161367631" duration="6000" />
+      <workItem from="1762373663928" duration="4939000" />
+      <workItem from="1762550874884" duration="508000" />
+      <workItem from="1762599787161" duration="4368000" />
+      <workItem from="1762682745647" duration="7827000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -300,7 +309,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760468799518</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1761595455839</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761595455839</updated>
+    </task>
+    <task id="LOCAL-00009" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1761595561902</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761595561902</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
