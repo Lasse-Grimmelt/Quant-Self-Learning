@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="Switching focus to volume data and discovering better than random periodicity." />
+    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="Switching focus to volume data and discovering better than random periodicity.">
+      <change afterPath="$PROJECT_DIR$/RMT in NT and Finance.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spectral Structures in Number Theory and Markets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Spectral Structures in Number Theory and Markets.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +59,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -275,7 +279,22 @@
       <workItem from="1767199039527" duration="3248000" />
       <workItem from="1767286631878" duration="5173000" />
       <workItem from="1767305517932" duration="481000" />
-      <workItem from="1767351404984" duration="10254000" />
+      <workItem from="1767351404984" duration="12604000" />
+      <workItem from="1767548896405" duration="8595000" />
+      <workItem from="1767622007403" duration="8965000" />
+      <workItem from="1767692206838" duration="14905000" />
+      <workItem from="1767868535296" duration="12497000" />
+      <workItem from="1768214446816" duration="15178000" />
+      <workItem from="1768404816364" duration="589000" />
+      <workItem from="1768415431419" duration="15939000" />
+      <workItem from="1768495348881" duration="8000" />
+      <workItem from="1768573729819" duration="1609000" />
+      <workItem from="1768896646220" duration="31622000" />
+      <workItem from="1769262829720" duration="917000" />
+      <workItem from="1769277449041" duration="479000" />
+      <workItem from="1769285721792" duration="3029000" />
+      <workItem from="1769370299684" duration="2353000" />
+      <workItem from="1769414735631" duration="14025000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -429,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767363002833</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Switching focus to volume data and discovering better than random periodicity.">
+      <option name="closed" value="true" />
+      <created>1767546827113</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1767546827113</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
