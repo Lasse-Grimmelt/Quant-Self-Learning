@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="Extension of aim of Covariance project.">
+    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="Implementation of all synthetic data generation and a basic NN. First NN conclusions reached.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Covariance Estimation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Covariance Estimation.ipynb" afterDir="false" />
     </list>
@@ -296,7 +296,13 @@
       <workItem from="1769414735631" duration="14789000" />
       <workItem from="1769850973253" duration="14520000" />
       <workItem from="1769872004671" duration="4181000" />
-      <workItem from="1769942613365" duration="13241000" />
+      <workItem from="1769942613365" duration="13940000" />
+      <workItem from="1770568647786" duration="627000" />
+      <workItem from="1770586499286" duration="599000" />
+      <workItem from="1770757838696" duration="607000" />
+      <workItem from="1770761314572" duration="573000" />
+      <workItem from="1770815165032" duration="597000" />
+      <workItem from="1770905593436" duration="7338000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -466,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769466143044</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Implementation of all synthetic data generation and a basic NN. First NN conclusions reached.">
+      <option name="closed" value="true" />
+      <created>1769979750355</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1769979750356</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,6 +496,7 @@
     <MESSAGE value="Rework of how arguments are passed and random comparison." />
     <MESSAGE value="Switching focus to volume data and discovering better than random periodicity." />
     <MESSAGE value="Extension of aim of Covariance project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Extension of aim of Covariance project." />
+    <MESSAGE value="Implementation of all synthetic data generation and a basic NN. First NN conclusions reached." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation of all synthetic data generation and a basic NN. First NN conclusions reached." />
   </component>
 </project>
