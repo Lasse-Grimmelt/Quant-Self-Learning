@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="Implementation of all synthetic data generation and a basic NN. First NN conclusions reached.">
+    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="Modification of NN learning: Included second NN to improve out of sample performance. &#10;&#10;Added simple benchmark on Synthetic data.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Covariance Estimation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Covariance Estimation.ipynb" afterDir="false" />
     </list>
@@ -302,7 +302,9 @@
       <workItem from="1770757838696" duration="607000" />
       <workItem from="1770761314572" duration="573000" />
       <workItem from="1770815165032" duration="597000" />
-      <workItem from="1770905593436" duration="7338000" />
+      <workItem from="1770905593436" duration="10548000" />
+      <workItem from="1771168775135" duration="596000" />
+      <workItem from="1772026205684" duration="7892000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -480,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769979750356</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Modification of NN learning: Included second NN to improve out of sample performance. &#10;&#10;Added simple benchmark on Synthetic data.">
+      <option name="closed" value="true" />
+      <created>1770913095136</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1770913095136</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,6 +507,7 @@
     <MESSAGE value="Switching focus to volume data and discovering better than random periodicity." />
     <MESSAGE value="Extension of aim of Covariance project." />
     <MESSAGE value="Implementation of all synthetic data generation and a basic NN. First NN conclusions reached." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementation of all synthetic data generation and a basic NN. First NN conclusions reached." />
+    <MESSAGE value="Modification of NN learning: Included second NN to improve out of sample performance. &#10;&#10;Added simple benchmark on Synthetic data." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modification of NN learning: Included second NN to improve out of sample performance. &#10;&#10;Added simple benchmark on Synthetic data." />
   </component>
 </project>
