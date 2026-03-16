@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="Modification of NN learning: Included second NN to improve out of sample performance. &#10;&#10;Added simple benchmark on Synthetic data.">
+    <list default="true" id="f6376860-de4b-449f-8e2d-3f39f06fd173" name="Changes" comment="Implemented parallelised sample generation&#10;&#10;Benchmarked on SP500 data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Covariance Estimation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Covariance Estimation.ipynb" afterDir="false" />
     </list>
@@ -304,7 +304,12 @@
       <workItem from="1770815165032" duration="597000" />
       <workItem from="1770905593436" duration="10548000" />
       <workItem from="1771168775135" duration="596000" />
-      <workItem from="1772026205684" duration="7892000" />
+      <workItem from="1772026205684" duration="7941000" />
+      <workItem from="1772618556682" duration="28000" />
+      <workItem from="1773092768834" duration="1000" />
+      <workItem from="1773267646898" duration="696000" />
+      <workItem from="1773521859779" duration="1469000" />
+      <workItem from="1773667276638" duration="1941000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -490,7 +495,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770913095136</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Implemented paralellised sample generation&#10;&#10;Benchmarked on SP500 data">
+      <option name="closed" value="true" />
+      <created>1772034754897</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1772034754897</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Implemented parallelised sample generation&#10;&#10;Benchmarked on SP500 data">
+      <option name="closed" value="true" />
+      <created>1772034771210</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1772034771210</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,6 +529,8 @@
     <MESSAGE value="Extension of aim of Covariance project." />
     <MESSAGE value="Implementation of all synthetic data generation and a basic NN. First NN conclusions reached." />
     <MESSAGE value="Modification of NN learning: Included second NN to improve out of sample performance. &#10;&#10;Added simple benchmark on Synthetic data." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modification of NN learning: Included second NN to improve out of sample performance. &#10;&#10;Added simple benchmark on Synthetic data." />
+    <MESSAGE value="Implemented paralellised sample generation&#10;&#10;Benchmarked on SP500 data" />
+    <MESSAGE value="Implemented parallelised sample generation&#10;&#10;Benchmarked on SP500 data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented parallelised sample generation&#10;&#10;Benchmarked on SP500 data" />
   </component>
 </project>
